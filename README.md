@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lincoln Muraguri</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently working on a PPI based project **PoliAgentX**
 
 - 📫 How to reach me **lincolnmuraguri93@gmail.com**
 
